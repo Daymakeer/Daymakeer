@@ -1,7 +1,7 @@
 ## Welcome! 👋
 -  Hi, I’m David Karanja.I'm a beginner exploring the exciting world of web development.
 -  My journey into coding began with a curiosity about creating websites and applications that can make a positive impact.
--👀 I'm enthusiastic about learning and passionate about building things for the web.
+- 👀 I'm enthusiastic about learning and passionate about building things for the web.
 - I am always excited about learning new technologies and staying up-to-date with the latest trends in the web development landscape.
 ## 🌱 Learning
 - I'm currently on a learning journey, focusing on the fundamentals of web development. Here are some of the technologies I'm diving into:
